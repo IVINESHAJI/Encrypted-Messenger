@@ -1,4 +1,4 @@
-# Encrypted Chat Application
+# Encrypted Messenger
 
 A **terminal-based end-to-end encrypted (E2EE)** messaging application written in Python. This project demonstrates secure, private, real-time communication using modern cryptographic standards — similar in concept to Signal or WhatsApp, but built for learning and customization.
 
